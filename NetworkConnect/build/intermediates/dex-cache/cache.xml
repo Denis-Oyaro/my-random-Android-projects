@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\290698d28fa438d58543b47471aa7a9004a262da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_336a8b6f90192f3077c62dd39e846f987928bc9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\d61969fd509adedc27024af2c58c6b2f42a75f21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_fa9ad6214b81711af4509d1ec3d29e627ba2b03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\3eeff6b896b265672b4b972436b307043de64373\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_8641860114faca0b3f4bbc3b2153d67d9f9eb61d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\077c2b3daad82344289055e4adeb106cada43d08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_fe5ef5ad372e82e1e1fba0fc6534951382c67207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\7d7e4b80f5a4d843a5c2e47de7c402a85686160f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_90bf291ba03cf8d69fb1facf0542f3df36709a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\f25dbf875e45740ab98498e8f7a93b46cb46b8fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_2ba6854ea368c35ae9cfdb55d4101bb11c87a230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\common-1.0.0_e25267ecd24f2ca3c99b9f9dd6b86963fa05983e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\common-1.0.0_c4d51f3eb449ae80461a7eb0ac1773ec765f8f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\a7d854f0b5efbda5083aa54ee27ac2a69e6e84d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_e0a1b4eec255cbd48d2cf69cbc0c4e2383da43b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_c9904e6e52876f731c091b9264f45e8f33fde94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\d75ec648259a577ccdd36f775165d54554bdb1a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_7fc8900d76975a14c05b4b489c797dd01f583ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\9c52ba5ab11f45f6a217d9697be318a3f4659bfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_cba8cd0b7b6932c7f1a0c68f3fcabb7d9ea5d03a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\34eb161014f7004c4ac82a96efa99a92cd90a988\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_568e9a3c3c0cfacc9dcd46d9f968c696aff03ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\e6365e712e138e327c9ed535ac18233cc4fad94f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_5590881caa60c9690c3cbcf11399f4624097281b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OYARO\.android\build-cache\1b72684e9d2ec1c9565fe7f8e66d36b4100a6822\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\OYARO\Desktop\my-android-projects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_c141bc8b142f7a247e05d9f399f6c96499e5b199.jar" />
+    </item>
+
+</items>
